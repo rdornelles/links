@@ -7,9 +7,13 @@
                 opacity: 45%;
             }
 
+            #logo {
+                padding-bottom: 25px;
+            }
+
             img {
                 height: auto;
-                width: 70vmin;
+                width: 45vmax;
                 object-fit: scale-down;
             }
 
@@ -20,11 +24,14 @@
                 align-items: center;
                 justify-content: center;
                 background: #094679;
-                background-image: url('https://github.com/rdornelles/visual-identity/raw/master/images/background-blue.jpg');
+                background-image: url('{{ site.background }}');
             }            
         </style>
     </head>
     <body>
-        <main>{{ content }}</main>
+        <main>
+            <img src="{{ site.image }}" id="logo"/>
+            {{ content }}
+        </main>
     </body>
 </html>

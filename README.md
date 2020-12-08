@@ -4,8 +4,6 @@ layout: links
 permalink: /
 ---
 
-![rodrigo-dornelles-solucoes-tecnologicas-logo](https://github.com/rdornelles/visual-identity/raw/master/images/logo-background-blue.png)
-
 [![email:contato@rdsolucoes.tec.br](https://img.shields.io/badge/email-contato@rdsolucoes%2Etec%2Ebr-6bbbca?style=for-the-badge&logo=Mail.Ru)](mailto:contato@dornelles.me)
 
 [![website:www.rdsolucoes.tec.br](https://img.shields.io/badge/website-www%2Erdsolucoes%2Etec%2Ebr-6bbbca?style=for-the-badge&logo=rss)](https://www.rdsolucoes.tec.br)
