@@ -1,0 +1,17 @@
+title: Rodrigo Dornelles Soluções Tecnológicas
+description: >-
+  +55 (51) 989 434 229
+  www.rdsolucoes.tec.br
+  contato@rdsolucoes.tec.br
+
+# build settings
+plugins:
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - github-pages
+
+# plugin jekyll-readme-index config
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false

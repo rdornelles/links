@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% seo %}
+        <style>
+            a:hover {
+                opacity: 45%;
+            }
+
+            img {
+                height: auto;
+                width: 70vmin;
+                object-fit: scale-down;
+            }
+
+            body {
+                width: 100vw;
+                height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: #094679;
+                background-image: url('https://github.com/rdornelles/visual-identity/raw/master/images/background-blue.jpg');
+            }            
+        </style>
+    </head>
+    <body>
+        <main>{{ content }}</main>
+    </body>
+</html>
