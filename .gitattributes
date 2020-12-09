@@ -1,0 +1,4 @@
+Gemfile.lock linguist-detectable=false
+Gemfile linguist-detectable=false
+*.html linguist-detectable=false
+*.md linguist-detectable=true
